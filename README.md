@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I am Waleed!
+  - B.Tech student in Computer Science and Engineering (Specialization in Artificial Intelligence)
+  - Currently wokring on my portfolio  
+  - Passionate about Machine Learning, CyberSecurity
+  - Currently learning Java
+  - Based in New Delhi, India
 
-<!--
-**mwaleed2804/mwaleed2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Languages:** Python, C, C++
+- **Tools:** Git, VS Code, Jupyter, MySQL, PyAutoGUI  
+- **Areas of Interest:** Machine Learning, CyberSecurity
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+  - [Linkedin](https://www.linkedin.com/in/mohammad-waleed-7aa2a3255/)
+  - [Mail](mailto:mwaleed2804@gmail.com)
