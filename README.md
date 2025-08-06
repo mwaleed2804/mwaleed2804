@@ -6,7 +6,7 @@
   - Based in New Delhi, India
 
 ## Skills
-- **Languages:** Python, C, C++
+- **Languages:** Python, C++
 - **Tools:** Git, VS Code, Jupyter, MySQL, PyAutoGUI  
 - **Areas of Interest:** Machine Learning, CyberSecurity
 
