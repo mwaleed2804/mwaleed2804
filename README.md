@@ -6,8 +6,9 @@
   - Based in New Delhi, India
 
 ## Skills
-- **Languages:** Python, C++
-- **Tools:** Git, VS Code, Jupyter, MySQL, PyAutoGUI  
+- **Languages:** Python, Java
+- **Tools:** Git, VS Code, Jupyter, MySQL, PyAutoGUI
+- **Cloud:** OCI, Google Cloud 
 - **Areas of Interest:** Machine Learning, CyberSecurity
 
 ## Connect with me
