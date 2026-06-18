@@ -1,6 +1,6 @@
 ## Hi there, I am Waleed!
   - B.Tech student in Computer Science and Engineering (Specialization in Artificial Intelligence)
-  - Currently wokring on my portfolio  
+  - Currently working on my portfolio  
   - Passionate about Machine Learning, CyberSecurity
   - Currently learning Java
   - Based in New Delhi, India
